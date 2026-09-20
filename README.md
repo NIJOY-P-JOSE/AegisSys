@@ -37,7 +37,7 @@ AegisSys aims to explain:
 
 ```text
 ┌───────────────────────────────────────────────┐
-│              🔍 SECURITY FINDING              │
+│              🔍 SECURITY FINDING             │
 ├───────────────────────────────────────────────┤
 │                                               │
 │  ⚠ Firewall is disabled                      │
@@ -52,7 +52,7 @@ AegisSys aims to explain:
 │  Recommended action                           │
 │  Enable the firewall.                         │
 │                                               │
-│  🔐 Safety: User approval required            │
+│  🔐 Safety: User approval required           │
 │                                               │
 └───────────────────────────────────────────────┘
 ```
